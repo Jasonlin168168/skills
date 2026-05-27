@@ -1,0 +1,6 @@
+interface:
+  display_name: "Remotion Course Video Production"
+  short_description: "Build narrated Remotion lesson videos."
+  default_prompt: "Use $remotion-course-video-production to create or update a narrated course video series from lesson outlines."
+policy:
+  allow_implicit_invocation: true
